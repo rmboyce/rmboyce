@@ -5,5 +5,5 @@ My biggest project is a puzzle game made using the Unity engine and C#, which I 
 I rock climb, program, and juggle in my free time.
 
 Links:
-  - Website (under construction): [ramseyboyce.com](http://www.ramseyboyce.com)
+  - Website: [ramseyboyce.com](https://www.ramseyboyce.com)
   - My puzzle game: [Serpent Fusion](https://store.steampowered.com/app/1126260/Serpent_Fusion/)
